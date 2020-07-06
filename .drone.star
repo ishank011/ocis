@@ -49,8 +49,8 @@ def main(ctx):
   before = [
     linting(ctx),
     unitTests(ctx),
-    apiTests(ctx, 'master', 'a3cac3dad60348fc962d1d8743b202bc5f79596b'),
-  ] + acceptance(ctx, 'master', '66ae7ceb02fe46fb01bbc23a0dae3679d9e0548d')
+    apiTests(ctx, 'master', '73023ed1e0009dc25a68d4cfd3ddf11b9c33d115'),
+  ] + acceptance(ctx, 'master', '5d5e26196941e2042f061db19106b339210d99d7')
 
   stages = [
     docker(ctx, 'amd64'),
