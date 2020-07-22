@@ -3,6 +3,7 @@ module github.com/owncloud/ocis
 go 1.13
 
 require (
+	github.com/cs3org/reva v0.1.1-0.20200710143425-cf38a45220c5
 	contrib.go.opencensus.io/exporter/jaeger v0.2.0
 	contrib.go.opencensus.io/exporter/ocagent v0.7.0
 	contrib.go.opencensus.io/exporter/zipkin v0.1.1
@@ -55,4 +56,6 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200722075132-a544b1df1f0f
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200722103202-a37b6345209b
+
+replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200722102638-baf7a58d734a
