@@ -347,6 +347,8 @@ github.com/cs3org/reva v0.1.1-0.20200701152626-2f6cc60e2f66 h1:0FEaqg/OF1wci6uVs
 github.com/cs3org/reva v0.1.1-0.20200701152626-2f6cc60e2f66/go.mod h1:umXd+gBuq0t1hiR8f+EplUxeWPcBnAIKPNKbXtA9EWU=
 github.com/cs3org/reva v0.1.1-0.20200709064551-91eed007038f h1:wsQOmNJGqxiXC3uTYHy1IPi39lO+UKD1adu2V3+8YtE=
 github.com/cs3org/reva v0.1.1-0.20200709064551-91eed007038f/go.mod h1:VUBjQP8XCiWwFTPhE9P4I47k0NbdczQa2q6JsJN2PqY=
+github.com/cs3org/reva v0.1.1-0.20200710143425-cf38a45220c5 h1:buENUkKNviU7c3/+E19GTY2Vk+KpSHbXUeWJQsNbpCE=
+github.com/cs3org/reva v0.1.1-0.20200710143425-cf38a45220c5/go.mod h1:V/SuCrkQ+Mz7EOs4gAHgl6Bq9JmpWy0beVIfE3fGGX8=
 github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d h1:SwD98825d6bdB+pEuTxWOXiSjBrHdOl/UVp75eI7JT8=
 github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d/go.mod h1:URriBxXwVq5ijiJ12C7iIZqlA69nTlI+LgI6/pwftG8=
 github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 h1:iwZdTE0PVqJCos1vaoKsclOGD3ADKpshg3SRtYBbwso=
@@ -888,6 +890,8 @@ github.com/ishank011/ocis-reva v0.0.0-20200721150817-7694e6f5a95e h1:LJXOI3W00Qi
 github.com/ishank011/ocis-reva v0.0.0-20200721150817-7694e6f5a95e/go.mod h1:d4il6F2/V/MV1TLtk8sbY6OOHolm2xoSoIwLxmNiC6k=
 github.com/ishank011/ocis-reva v0.0.0-20200721164640-681bd5f720d0 h1:vh/uXngGUx+qGCr2XfWT86q/yxk/+8XkcCgwDHdUvxU=
 github.com/ishank011/ocis-reva v0.0.0-20200721164640-681bd5f720d0/go.mod h1:d4il6F2/V/MV1TLtk8sbY6OOHolm2xoSoIwLxmNiC6k=
+github.com/ishank011/ocis-reva v0.0.0-20200722075132-a544b1df1f0f h1:Riwe4LHLE7ZMrNCWP+e6Usn/HIzbsxKI8/bdO9Dq6as=
+github.com/ishank011/ocis-reva v0.0.0-20200722075132-a544b1df1f0f/go.mod h1:OagmYS4CJmklVDTAElG8pERcEd99H9bGEq/75RyAKQw=
 github.com/jackc/fake v0.0.0-20150926172116-812a484cc733/go.mod h1:WrMFNQdiFJ80sQsxDoMokWK1W5TQtxBFNpzWTD84ibQ=
 github.com/jackc/pgx v3.2.0+incompatible/go.mod h1:0ZGrqGqkRlliWnWB4zKnWtjbSWbGkVEFm4TeybAXq+I=
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 h1:BQSFePA1RWJOlocH6Fxy8MmwDt+yVQYULKfN0RoTN8A=
