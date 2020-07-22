@@ -56,6 +56,6 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200722114952-8f5e3406c03b
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200722122425-e8599dc447ed
 
 replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200722114647-5c81201dca39
