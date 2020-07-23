@@ -3,7 +3,6 @@ module github.com/owncloud/ocis
 go 1.13
 
 require (
-	github.com/cs3org/reva v0.1.1-0.20200710143425-cf38a45220c5
 	contrib.go.opencensus.io/exporter/jaeger v0.2.0
 	contrib.go.opencensus.io/exporter/ocagent v0.7.0
 	contrib.go.opencensus.io/exporter/zipkin v0.1.1
@@ -11,8 +10,10 @@ require (
 	github.com/bmatcuk/doublestar v1.3.1 // indirect
 	github.com/coreos/etcd v3.3.21+incompatible // indirect
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
+	github.com/cs3org/reva v0.1.1-0.20200710143425-cf38a45220c5
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/go-log/log v0.2.0 // indirect
+	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/karrick/godirwalk v1.15.6 // indirect
 	github.com/labstack/echo v3.3.10+incompatible // indirect
@@ -54,8 +55,10 @@ require (
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 
+replace github.com/gomodule/redigo => github.com/gomodule/redigo v1.8.2
+
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200723110003-c10bede0bd35
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200723143112-e741873d7747
 
-replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200723105454-32dc625132d3
+replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200723141112-35ac7b8ce630
