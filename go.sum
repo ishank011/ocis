@@ -857,6 +857,8 @@ github.com/ishank011/ocis-reva v0.0.0-20200723110003-c10bede0bd35 h1:2RRevPgtYKU
 github.com/ishank011/ocis-reva v0.0.0-20200723110003-c10bede0bd35/go.mod h1:Zr/bVjYw11kKc2RHm866HsIkNqYgH98p38O4V281Cgw=
 github.com/ishank011/ocis-reva v0.0.0-20200723143112-e741873d7747 h1:tY1KRjxQJLBTdUuKFGv0LJUGw7WdiSvaitBz2mTNIoU=
 github.com/ishank011/ocis-reva v0.0.0-20200723143112-e741873d7747/go.mod h1:DSKV4rISCxvka4QmQQMqtUtO/3ON02jXIC5VWZHAqEY=
+github.com/ishank011/ocis-reva v0.0.0-20200723151431-3f375d95aa4c h1:n3x11AYUu1pKiAage0YUy4An2cxcQQ4uMwqfxJcsoY4=
+github.com/ishank011/ocis-reva v0.0.0-20200723151431-3f375d95aa4c/go.mod h1:DSKV4rISCxvka4QmQQMqtUtO/3ON02jXIC5VWZHAqEY=
 github.com/ishank011/reva v0.0.0-20200723105454-32dc625132d3 h1:g6DAL6he5JCqL+43Rnuvt+m20MBX2JgHQr6nFXUlmwg=
 github.com/ishank011/reva v0.0.0-20200723105454-32dc625132d3/go.mod h1:5fZCixUQvCkgNAfGCV4j3Uz2w7zhrnLY6ts6xx+HKk4=
 github.com/ishank011/reva v0.0.0-20200723141112-35ac7b8ce630 h1:QFSpda1o/f+OnIXFEGM/vHndoEfVpK7iI9rH4O4Fwlw=
