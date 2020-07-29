@@ -857,10 +857,14 @@ github.com/ishank011/ocis-reva v0.0.0-20200728133926-266ecf053911 h1:U/v11NF5qKd
 github.com/ishank011/ocis-reva v0.0.0-20200728133926-266ecf053911/go.mod h1:7QpL2ER+OBaHQr/A0v3jYwBhjvlnCqjv4Ore/2scBLs=
 github.com/ishank011/ocis-reva v0.0.0-20200728135911-a651fb038076 h1:qU5kgVk2yWnec49ccmhZVQV8f7Ui6hBFUbFGDGZ0CJ4=
 github.com/ishank011/ocis-reva v0.0.0-20200728135911-a651fb038076/go.mod h1:ELGn5QnWsSlIOwbPKVDvOFDQ4btn3XlwdYdkeoXH3FE=
+github.com/ishank011/ocis-reva v0.0.0-20200729155451-22776ce94ad5 h1:fj/t6HmR7DFbXvEI7Tftcj4QXMm1ZuKpz6aK8cPZeFo=
+github.com/ishank011/ocis-reva v0.0.0-20200729155451-22776ce94ad5/go.mod h1:KZxfv4VFq5c1chkGjOpIeoTEU3gfDI9GHEW95C2h/0Q=
 github.com/ishank011/reva v0.0.0-20200728133800-f009555a9934 h1:wF/GDRK2c53YzsNqxLItbLDgjEJh1V7IDpvBrjsQk6c=
 github.com/ishank011/reva v0.0.0-20200728133800-f009555a9934/go.mod h1:Hfd9Z87RSYO2tASEGHAdCz1ClRmdYfdc24boHSlQcwc=
 github.com/ishank011/reva v0.0.0-20200728135811-9e31d92c80b4 h1:jGsDf/fzR3//j0/GNVlh59HNBMU0AaqMXnCGPDExNGU=
 github.com/ishank011/reva v0.0.0-20200728135811-9e31d92c80b4/go.mod h1:Hfd9Z87RSYO2tASEGHAdCz1ClRmdYfdc24boHSlQcwc=
+github.com/ishank011/reva v0.0.0-20200729155245-6024f8d9eac5 h1:XZ+xaIGz2YNUKeiavYCt+KAtpFjrgLoc8AFypc5cFpU=
+github.com/ishank011/reva v0.0.0-20200729155245-6024f8d9eac5/go.mod h1:Hfd9Z87RSYO2tASEGHAdCz1ClRmdYfdc24boHSlQcwc=
 github.com/jackc/fake v0.0.0-20150926172116-812a484cc733/go.mod h1:WrMFNQdiFJ80sQsxDoMokWK1W5TQtxBFNpzWTD84ibQ=
 github.com/jackc/pgx v3.2.0+incompatible/go.mod h1:0ZGrqGqkRlliWnWB4zKnWtjbSWbGkVEFm4TeybAXq+I=
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 h1:BQSFePA1RWJOlocH6Fxy8MmwDt+yVQYULKfN0RoTN8A=
