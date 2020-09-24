@@ -59,6 +59,6 @@ replace github.com/gomodule/redigo => github.com/gomodule/redigo v1.8.2
 
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200917082336-f15445099ef9
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200924115806-4b0cd647f802
 
-replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200917082126-546388798f10
+replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200924114548-8b41e83c8134
