@@ -48,7 +48,6 @@ require (
 	go.uber.org/multierr v1.4.0 // indirect
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899 // indirect
 	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
-	golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae // indirect
 	golang.org/x/text v0.3.3 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
@@ -59,6 +58,6 @@ replace github.com/gomodule/redigo => github.com/gomodule/redigo v1.8.2
 
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200924115806-4b0cd647f802
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20200929163349-af895b01a807
 
-replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200924114548-8b41e83c8134
+replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20200929153644-73bbbed78205
