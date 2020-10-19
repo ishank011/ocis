@@ -43,7 +43,7 @@ require (
 	github.com/refs/pman v0.0.0-20200701173654-f05b8833071a
 	github.com/restic/calens v0.2.0
 	github.com/valyala/fasttemplate v1.2.0 // indirect
-	go.opencensus.io v0.22.4
+	go.opencensus.io v0.22.5
 	go.uber.org/atomic v1.5.1 // indirect
 	go.uber.org/multierr v1.4.0 // indirect
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899 // indirect
@@ -58,6 +58,6 @@ replace github.com/gomodule/redigo => github.com/gomodule/redigo v1.8.2
 
 replace github.com/lucas-clemente/quic-go v0.15.7 => github.com/lucas-clemente/quic-go v0.14.1
 
-replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20201002123710-66e2e979e2a9
+replace github.com/owncloud/ocis-reva => github.com/ishank011/ocis-reva v0.0.0-20201019081850-fe722ca5dc03
 
-replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20201002123029-d54540f52dd8
+replace github.com/cs3org/reva => github.com/ishank011/reva v0.0.0-20201019080706-4b4669d319f2
