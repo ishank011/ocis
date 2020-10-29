@@ -350,6 +350,8 @@ github.com/cs3org/go-cs3apis v0.0.0-20200810113633-b00aca449666 h1:E7VsSSN/2YZLS
 github.com/cs3org/go-cs3apis v0.0.0-20200810113633-b00aca449666/go.mod h1:UXha4TguuB52H14EMoSsCqDj7k8a/t7g4gVP+bgY5LY=
 github.com/cs3org/go-cs3apis v0.0.0-20200929101248-821df597ec8d h1:YDnGz3eTIYQDXzJd/zefEsl0qbz/P63e8KWjSjYlb5Q=
 github.com/cs3org/go-cs3apis v0.0.0-20200929101248-821df597ec8d/go.mod h1:UXha4TguuB52H14EMoSsCqDj7k8a/t7g4gVP+bgY5LY=
+github.com/cs3org/go-cs3apis v0.0.0-20201007120910-416ed6cf8b00 h1:LVl25JaflluOchVvaHWtoCynm5OaM+VNai0IYkcCSe0=
+github.com/cs3org/go-cs3apis v0.0.0-20201007120910-416ed6cf8b00/go.mod h1:UXha4TguuB52H14EMoSsCqDj7k8a/t7g4gVP+bgY5LY=
 github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d h1:SwD98825d6bdB+pEuTxWOXiSjBrHdOl/UVp75eI7JT8=
 github.com/cznic/b v0.0.0-20181122101859-a26611c4d92d/go.mod h1:URriBxXwVq5ijiJ12C7iIZqlA69nTlI+LgI6/pwftG8=
 github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548 h1:iwZdTE0PVqJCos1vaoKsclOGD3ADKpshg3SRtYBbwso=
@@ -961,6 +963,8 @@ github.com/ishank011/ocis-reva v0.0.0-20201023123210-b91c8069ac7c h1:yqOLmGGNZpE
 github.com/ishank011/ocis-reva v0.0.0-20201023123210-b91c8069ac7c/go.mod h1:xyuQOiuxhIt3irJyPXe6K71+vlQOiBIp04xz01QTKh8=
 github.com/ishank011/ocis-reva v0.0.0-20201027090758-1f655d8f8f5e h1:ggiKx2mP67Bsw9fiNjPeB3DAZiWhtb//ax90/5Z5XZg=
 github.com/ishank011/ocis-reva v0.0.0-20201027090758-1f655d8f8f5e/go.mod h1:UXUvHtNK3+Om7CRBEWPhnTjuvic0sdAeoHeA+xdPvzU=
+github.com/ishank011/ocis-reva v0.0.0-20201029113232-2e8c2109ceeb h1:i+75HxIfFSCt9HmWpUBsnPKQKkU4yrh1zjfjs85JaBE=
+github.com/ishank011/ocis-reva v0.0.0-20201029113232-2e8c2109ceeb/go.mod h1:TyAwOyxlAdbca7N4KeKCuvxhLHUbvwOv++1sFGHgTSs=
 github.com/ishank011/reva v0.0.0-20200728133800-f009555a9934 h1:wF/GDRK2c53YzsNqxLItbLDgjEJh1V7IDpvBrjsQk6c=
 github.com/ishank011/reva v0.0.0-20200728133800-f009555a9934/go.mod h1:Hfd9Z87RSYO2tASEGHAdCz1ClRmdYfdc24boHSlQcwc=
 github.com/ishank011/reva v0.0.0-20200728135811-9e31d92c80b4 h1:jGsDf/fzR3//j0/GNVlh59HNBMU0AaqMXnCGPDExNGU=
@@ -1017,6 +1021,8 @@ github.com/ishank011/reva v0.0.0-20201023122906-4d2f1e159e7d h1:RCOUgk0SA4vcjhNX
 github.com/ishank011/reva v0.0.0-20201023122906-4d2f1e159e7d/go.mod h1:rTJhfVoZggB5iSPH5oWqQSO+W1iTQIxNmaX/ueS9GAU=
 github.com/ishank011/reva v0.0.0-20201027090426-d25908cb2723 h1:fUuTgGwczmZhQxAnCufQ1gYQlQZWYzuMe+reLmivkic=
 github.com/ishank011/reva v0.0.0-20201027090426-d25908cb2723/go.mod h1:rTJhfVoZggB5iSPH5oWqQSO+W1iTQIxNmaX/ueS9GAU=
+github.com/ishank011/reva v0.0.0-20201029112956-d0ba989a3392 h1:5/cvAlTola6JMgYRUdAPIzjYEwUiPqcuVf+LmXTF08Q=
+github.com/ishank011/reva v0.0.0-20201029112956-d0ba989a3392/go.mod h1:V50GXMiT524bvxACFkrkZqBzK4BoXLSprxcPshBlSOY=
 github.com/jackc/fake v0.0.0-20150926172116-812a484cc733/go.mod h1:WrMFNQdiFJ80sQsxDoMokWK1W5TQtxBFNpzWTD84ibQ=
 github.com/jackc/pgx v3.2.0+incompatible/go.mod h1:0ZGrqGqkRlliWnWB4zKnWtjbSWbGkVEFm4TeybAXq+I=
 github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 h1:BQSFePA1RWJOlocH6Fxy8MmwDt+yVQYULKfN0RoTN8A=
@@ -1393,6 +1399,8 @@ github.com/ory/fosite v0.34.0 h1:lCUX4f5BoiXBIRUYKeTne+aRl0v6StgWpyYKq+7ILw0=
 github.com/ory/fosite v0.34.0/go.mod h1:h+ize9gk0GvRyGjabriqSEmTkMhny+O95cijb8DVqPE=
 github.com/ory/fosite v0.35.0 h1:ugOMHhlcfAjBmIwLOVCK0LQMnYMP/8J/reb2+VEHrfg=
 github.com/ory/fosite v0.35.0/go.mod h1:h+ize9gk0GvRyGjabriqSEmTkMhny+O95cijb8DVqPE=
+github.com/ory/fosite v0.35.1 h1:mGPcwVGwHA7Yy9wr/7LDps6BEXyavL32NxizL9eH53Q=
+github.com/ory/fosite v0.35.1/go.mod h1:h+ize9gk0GvRyGjabriqSEmTkMhny+O95cijb8DVqPE=
 github.com/ory/go-acc v0.0.0-20181118080137-ddc355013f90/go.mod h1:sxnvPCxChFuSmTJGj8FdMupeq1BezCiEpDjTUXQ4hf4=
 github.com/ory/go-acc v0.2.1 h1:Pwcmwd/cSnwJsYN76+w3HU7oXeWFTkwj/KUj1qGDrVw=
 github.com/ory/go-acc v0.2.1/go.mod h1:0omgy2aa3nDBJ45VAKeLHH8ccPBudxLeic4xiDRtug0=
